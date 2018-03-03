@@ -36,7 +36,7 @@ author                 = "Consorcio de Datos de Biodiversidad del Uruguay"
 cachebuster            = false                          # add the current unix timestamp in query string for cache busting css assets
 dateform               = "Jan 2, 2006"
 dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
-description            = "Don't panic"
+description            = "Información de interés para los integrantes del Consorcio de Datos de Biodiversidad del Uruguay"
 email                  = "fgrattarola@lincoln.ac.uk"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
 
