@@ -11,7 +11,7 @@ El consorcio se está ensamblando en base a una lista de 60 renombrados expertos
 Lista de personas contactadas hasta el momento
 
 | **Integrantes** |
-| - |
+|--|
 | Adrián Azpiroz |
 |Alejandro Brazeiro |
 |Alejandro Fallabrino |
