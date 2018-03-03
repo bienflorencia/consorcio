@@ -9,8 +9,8 @@ aliases = [
 
 +++
 
-Este sitio fue creado por mi, [Florencia Grattarola](http://bit.ly/flograttarola), para depositar información de interés para los integrantes del Consorcio de Datos de Biodiversidad del Uruguay.
+Este sitio fue creado por [Florencia Grattarola](http://bit.ly/flograttarola), para depositar información de interés para los integrantes del Consorcio de Datos de Biodiversidad del Uruguay.
 
-Me encuentro realizando mi Doctorado en la University of Lincoln (Reino Unido) en el Laboratory of Evolutionary Ecology of Adaptations supervisada por el Dr. Daniel Pincheira-Donoso, mediante una beca de posgrado en el exterior de la Agencia Nacional de Investigación e Innovación (ANII). 
+*Me encuentro realizando mi Doctorado en la University of Lincoln (Reino Unido) en el Laboratory of Evolutionary Ecology of Adaptations supervisada por el Dr. Daniel Pincheira-Donoso, mediante una beca de posgrado en el exterior de la Agencia Nacional de Investigación e Innovación (ANII). 
 
-Mi objetivo central es consolidar en profundidad el conocimiento sobre la biodiversidad del Uruguay a través de la creación de un repositorio científico de datos robusto y exhaustivo. Para lograr esto mi propuesta es crear el Consorcio de Datos de Biodiversidad del Uruguay (biodiversidata.uy), una asociación estratégica colaborativa de investigadores e investigadoras para la disponibilización del conocimiento de la biodiversidad del Uruguay.
+Mi objetivo central es consolidar en profundidad el conocimiento sobre la biodiversidad del Uruguay a través de la creación de un repositorio científico de datos robusto y exhaustivo. Para lograr esto mi propuesta es crear el Consorcio de Datos de Biodiversidad del Uruguay (biodiversidata.uy), una asociación estratégica colaborativa de investigadores e investigadoras para la disponibilización del conocimiento de la biodiversidad del Uruguay.*

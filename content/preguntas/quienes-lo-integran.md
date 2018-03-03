@@ -73,4 +73,3 @@ Lista de personas contactadas hasta el momento
 |Susana González|
 |Valentina Franco-Trecu|
 |Wilson Sebastián Serra|
-
