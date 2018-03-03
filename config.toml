@@ -1,0 +1,64 @@
+baseurl             = "/"
+builddrafts         = false
+canonifyurls        = true
+contentdir          = "content"
+languageCode        = "en-US"
+layoutdir           = "layouts"
+publishdir          = "public"
+theme               = "cocoa"
+author              = "Consorcio de Datos de Biodiversidad del Uruguay"
+title               = "Consorcio de Datos de Biodiversidad del Uruguay"
+pygmentsuseclasses  = true
+#disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
+pluralizelisttitles = false
+#googleAnalytics     = "UA-123-45"
+
+[permalinks]
+#blog  = "blog/:slug/"
+
+[[menu.main]]
+name                   = "About"
+weight                 = -120
+identifier             = "about"
+url                    = "/about/"
+
+[[menu.main]]
+name                   = "Preguntas y Respuestas"
+weight                 = -110
+identifier             = "preguntas y respuestas"
+url                    = "/preguntas/"
+
+[params]
+include_rss            = false                          # include RSS <link> tag in <head> and show RSS icon
+latestpostscount       = 0                             # how many posts to display on the home page
+i18n_flags             = false                         # whether to display small country flags for available translations
+author                 = "Consorcio de Datos de Biodiversidad del Uruguay"
+cachebuster            = false                          # add the current unix timestamp in query string for cache busting css assets
+dateform               = "Jan 2, 2006"
+dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
+description            = "Don't panic"
+email                  = "fgrattarola@lincoln.ac.uk"
+extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
+
+
+highlightjs            = true
+# highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
+# highlightjsStyle     = "darcula"
+
+piwik                  = false                         # If true, Piwik integration is enabled
+# piwik_url            = "//www.example.com/piwik/"    # URL to your Piwik installation. Must End with a slash
+# piwik_id             = 2                             # Id of your site in Piwik
+
+gitalk                 = false
+# if gitalk is true, the following params should be set. These parameters could be retrieved from github OAuth
+gitalk_clientID        = "your client id"
+gitalk_clientSecret    = "your client secret"
+gitalk_repo            = "your repo url"
+gitalk_owner           = "the owner of this repo"
+gitalk_admin           = ['a', 'list', 'of', 'administrator']
+
+avatar                 = "img/profile.png" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
+# gravatar             = ""                # gravatar hash. see https://en.gravatar.com/site/implement/hash/. do not use in the same time as avatar
+
+# The following are DEPRECATED.
+initials               = "FG"  # displayed on single post page; deprecated in v0.3.0.
