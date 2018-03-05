@@ -5,6 +5,16 @@ title = "¿Qué información deben contener los archivos con datos de observacio
 
 +++
 
+**negrita**
+__subrayado__
+--subrayado--
+1. Ordered list item
+2. Ordered list item
+3. Ordered list item
+
+>> A quoted paragraph inside a quotation
+
+
 ### Tablas con registros individuales
 Las tablas contendrán campos relativos a la especie registrada, la localidad y fecha de colecta e información sobre su colector y lugar de almacenamiento. Cada fila en un archivo representa un registro completo y las columnas representan todos los parámetros que componen el registro (formato de hoja de cálculo). 
 
