@@ -5,71 +5,62 @@ title = "¿Quiénes forman parte del Consorcio?"
 
 +++
 
-El consorcio se está ensamblando en base a una lista de 60 renombrados expertos/as que cubren la biodiversidad del país. De cara al plan propuesto a 18 meses, el Consorcio está por el momento abierto a todos/as aquellos/as especialistas con manejo de datos biológicos que quieran formar parte de esta propuesta científica colaborativa.
+El consorcio se está ensamblando en base a una lista de 60 renombrados expertos/as que cubren la biodiversidad del país. 
+En esta primer etapa del proyecto se están incorporando miembros que pueden aportar datos que cubran ya sea una categoría taxonómica completa (e.g., todos los anuros, todos los roedores, etc) o áreas geográficas de enorme cobertura (varios departamentos, el Uruguay entero, etc). 
 
 
-Lista de personas contactadas hasta el momento
+Lista de especialistas contactados hasta el momento
 
-| **Integrantes** |
-|:-------------------------------:|
+| Especialistas |
+|---------------------------------|
 | Adrián Azpiroz |
 | Alejandro Brazeiro |
 | Alejandro Fallabrino |
-| Alvar Carranza |
-| Alvaro   Laborda |
+| Alvaro Laborda |
 | Álvaro Soutullo |
 | Ana Laura Rodales |
 | Ana Verdi |
-| Andrés Canavero |
 | Andrés Estrades |
-| Andrés   González |
-| Andrés Rossado |
-| Anita Aisenberg |
+| Andrés González |
 | Arley Camargo |
-| Carlos   Brussa |
+| Carlos Brussa |
 | Carlos Prigioni |
 | Carmen Viera |
 | Claudio Borteiro |
-| Cristhian Clavijo |
 | Daniel Naya |
 | Diego Queirolo |
 | Enrique González |
 | Enrique Lessa |
-| Enrique   Morelli |
 | Fabrizio Scarabino |
-| Fernando   Pérez-Miles |
-| Fernando   Pérez-Piedrabuena |
+| Fernando Pérez-Miles |
+| Fernando Pérez-Piedrabuena |
+| Francisco Kolenc |
 | Franco Teixeira de Mello |
 | Gabriel Laufer |
-| Gabriela   Bentancur-Viglione |
+| Gabriela Bentancur-Viglione |
 | Germán Botto |
 | Graciela García |
 | Inés da Rosa |
-| Iván Grela |
-| Javier González |
 | Joaquín Aldabe |
-| José Carlos   Guerrero Antúnez |
-| José   Manuel Venzal |
+| José Carlos Guerrero Antúnez |
+| José Manuel Venzal |
 | Juan Andrés Martínez-Lanfranco |
-| Liliana   Delfino |
+| Liliana Delfino |
 | Lucía Ziegler |
 | Marcelo Loureiro |
 | María José Rodríguez Cajarville |
 | Mariana Cosse |
-| Matías Arim |
 | Matilde Alfaro |
-| Mauricio   Bonifacino |
+| Mauricio Bonifacino |
 | Melitta Meneghel |
-| Mercedes   Rivas |
-| Miguel   Simó |
-| Patricia   Mai |
+| Mercedes Rivas |
+| Miguel Simó |
+| Natalia Zaldúa |
+| Patricia Mai |
 | Ramiro Pereira |
 | Raúl Maneyro |
 | Santiago Carreira |
-| Santiago   Carvalho |
 | Sebastián Horta |
-| Sebastián   Jiménez |
-| Silvana Greco-Spíngola |
-| Susana González |
 | Valentina Franco-Trecu |
 | Wilson Sebastián Serra |
+
