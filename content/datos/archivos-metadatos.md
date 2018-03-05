@@ -7,8 +7,10 @@ title = "¿Qué información deben contener los archivos con metadatos?"
 
 
 Para que el conjunto de datos pueda ingresarse en el repositorio del Consorcio se va a generar un archivo descriptivo de los metadatos que debe incluir la siguiente información a nivel de proyecto y datos ( __subrayados__ los datos imprescindibles): 
- 
 
+
+| Parámetro         | Descripción                                                                                                                                                                 |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | title             | Descripción del conjunto de datos.                                                                                                                                          |
 | summary           | Párrafo que describe el conjunto de datos.                                                                                                                                  |
 | project           | Nombre del proyecto que generó los datos.                                                                                                                                   |
@@ -22,4 +24,4 @@ Para que el conjunto de datos pueda ingresarse en el repositorio del Consorcio s
 | embargo           | Listado de registros en embargo                                                                                                                                             |
 | dateEmbargo       | Fecha límite para solicitar el embargo de datos                                                                                                                             |
 
-__En caso de que el conjunto de datos no cuente con un archivo de metadatos, **esto no representará un problema** ya que el mismo será generado a partir de la información prevista por los/las investigadores/as (como parte de la tarea curatorial de los datos).__
+__En caso de que el conjunto de datos no cuente con un archivo de metadatos,__ __**esto no representará un problema**__ __ya que el mismo será generado a partir de la información prevista por los/las investigadores/as (como parte de la tarea curatorial de los datos).__

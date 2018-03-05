@@ -9,8 +9,10 @@ title = "¿Qué información deben contener los archivos con datos de observacio
 Las tablas contendrán campos relativos a la especie registrada, la localidad y fecha de colecta e información sobre su colector y lugar de almacenamiento. Cada fila en un archivo representa un registro completo y las columnas representan todos los parámetros que componen el registro (formato de hoja de cálculo). 
 
 
-Idealmente las columnas (parámetros) a ingresar son los siguientes ( __subrayados__ los datos imprescindibles):
+Idealmente las columnas (parámetros) a ingresar son los siguientes (los datos __subrayados__ son imprescindibles):
 
+| Parámetro            | Descripción                                                                                                                 |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | __scientificName__   | Nombre científico del organismo registrado.                                                                                 |
 | scientificNameID     | Identificador para relacionar el registro con el nombre taxonómico aceptado                                                 |
 | vernacularName       | Nombre común del organismo registrado.                                                                                      |
@@ -38,7 +40,7 @@ Idealmente las columnas (parámetros) a ingresar son los siguientes ( __subrayad
 *Términos tomados del Darwin Core, un estándar diseñado con el propósito de crear un lenguaje común para publicar y documentar datos sobre registros biológicos (observaciones o ejemplares de colección), listas de especies y catálogos taxonómicos.*
 
 
-__En caso de que las tablas no sigan estos parámetros, no cuenten con los datos obligatorios o contengan datos en diferentes formatos a los esperados, esto no representará un problema ya que las mismas se adaptarán para cumplir con los estándares detallados (como parte de la tarea curatorial de los datos). Cualquier otro tipo de parámetro adicional que contenga la tabla enriquecerá el dato del registro extraordinariamente (por ejemplo: sex, lifeStage, reproductiveCondition), se podrán agregar luego de las columnas mencionadas y serán adaptados a los estándares previstos, según los términos de Darwin Core.__ 
+__En caso de que las tablas no sigan estos parámetros, no cuenten con los datos obligatorios o contengan datos en diferentes formatos a los esperados,__ __**esto no representará un problema**__ __ya que las mismas se adaptarán para cumplir con los estándares detallados (como parte de la tarea curatorial de los datos). Cualquier otro tipo de parámetro adicional que contenga la tabla enriquecerá el dato del registro extraordinariamente (por ejemplo: sex, lifeStage, reproductiveCondition), se podrán agregar luego de las columnas mencionadas y serán adaptados a los estándares previstos, según los términos de Darwin Core.__ 
 
 
 ### Lista de especies 
