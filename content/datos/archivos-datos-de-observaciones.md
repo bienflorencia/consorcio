@@ -37,10 +37,10 @@ Idealmente las columnas (parámetros) a ingresar son los siguientes (los datos _
 | identified_by        | Nombre de la persona que identificó el registro                                                                             |
 
 
-*Términos tomados del Darwin Core, un estándar diseñado con el propósito de crear un lenguaje común para publicar y documentar datos sobre registros biológicos (observaciones o ejemplares de colección), listas de especies y catálogos taxonómicos.*
+<sup>*Términos tomados del Darwin Core, un estándar diseñado con el propósito de crear un lenguaje común para publicar y documentar datos sobre registros biológicos (observaciones o ejemplares de colección), listas de especies y catálogos taxonómicos.*</sup>
 
 
-__En caso de que las tablas no sigan estos parámetros, no cuenten con los datos obligatorios o contengan datos en diferentes formatos a los esperados,__ __**esto no representará un problema**__ __ya que las mismas se adaptarán para cumplir con los estándares detallados (como parte de la tarea curatorial de los datos). Cualquier otro tipo de parámetro adicional que contenga la tabla enriquecerá el dato del registro extraordinariamente (por ejemplo: sex, lifeStage, reproductiveCondition), se podrán agregar luego de las columnas mencionadas y serán adaptados a los estándares previstos, según los términos de Darwin Core.__ 
+__En caso de que las tablas no sigan estos parámetros, no cuenten con los datos obligatorios o contengan datos en diferentes formatos a los esperados, esto no representará un problema ya que las mismas se adaptarán para cumplir con los estándares detallados (como parte de la tarea curatorial de los datos). Cualquier otro tipo de parámetro adicional que contenga la tabla enriquecerá el dato del registro extraordinariamente (por ejemplo: sex, lifeStage, reproductiveCondition), se podrán agregar luego de las columnas mencionadas y serán adaptados a los estándares previstos, según los términos de Darwin Core.__ 
 
 
 ### Lista de especies 
