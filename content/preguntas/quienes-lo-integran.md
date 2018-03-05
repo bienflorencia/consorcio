@@ -13,56 +13,57 @@ En esta primer etapa del proyecto se están incorporando miembros que pueden apo
 ### Lista de especialistas contactados hasta el momento:
 
 
-| **_** |
-|:-------------------------------:|
-| Adrián Azpiroz |
-| Alejandro Brazeiro |
-| Alejandro Fallabrino |
-| Alvaro Laborda |
-| Álvaro Soutullo |
-| Ana Laura Rodales |
-| Ana Verdi |
-| Andrés Estrades |
-| Andrés González |
-| Arley Camargo |
-| Carlos Brussa |
-| Carlos Prigioni |
-| Carmen Viera |
-| Claudio Borteiro |
-| Daniel Naya |
-| Diego Queirolo |
-| Enrique González |
-| Enrique Lessa |
-| Fabrizio Scarabino |
-| Fernando Pérez-Miles |
-| Fernando Pérez-Piedrabuena |
-| Francisco Kolenc |
-| Franco Teixeira de Mello |
-| Gabriel Laufer |
-| Gabriela Bentancur-Viglione |
-| Germán Botto |
-| Graciela García |
-| Inés da Rosa |
-| Joaquín Aldabe |
-| José Carlos Guerrero Antúnez |
-| José Manuel Venzal |
-| Juan Andrés Martínez-Lanfranco |
-| Liliana Delfino |
-| Lucía Ziegler |
-| Marcelo Loureiro |
-| María José Rodríguez-Cajarville |
-| Mariana Cosse |
-| Matilde Alfaro |
-| Mauricio Bonifacino |
-| Melitta Meneghel |
-| Mercedes Rivas |
-| Miguel Simó |
-| Patricia Mai |
-| Ramiro Pereira |
-| Raúl Maneyro |
-| Santiago Carreira |
-| Sebastián Horta |
-| Valentina Franco-Trecu |
-| Wilson Sebastián Serra |
-| Natalia Zaldúa |
+| **_**                           |
+|---------------------------------|
+| Adrián Azpiroz                  |
+| Alejandro Brazeiro              |
+| Alejandro Fallabrino            |
+| Alvaro Laborda                  |
+| Álvaro Soutullo                 |
+| Ana Laura Rodales               |
+| Ana Verdi                       |
+| Andrés Estrades                 |
+| Andrés González                 |
+| Arley Camargo                   |
+| Carlos Brussa                   |
+| Carlos Prigioni                 |
+| Carmen Viera                    |
+| César Fagúndez                  |
+| Claudio Borteiro                |
+| Daniel Naya                     |
+| Diego Queirolo                  |
+| Enrique González                |
+| Enrique Lessa                   |
+| Fabrizio Scarabino              |
+| Fernando Pérez-Miles            |
+| Fernando Pérez-Piedrabuena      |
+| Francisco Kolenc                |
+| Franco Teixeira de Mello        |
+| Gabriel Laufer                  |
+| Gabriela Bentancur-Viglione     |
+| Germán Botto                    |
+| Graciela García                 |
+| Inés da Rosa                    |
+| Joaquín Aldabe                  |
+| José Carlos Guerrero Antúnez    |
+| José Manuel Venzal              |
+| Juan Andrés Martínez-Lanfranco  |
+| Liliana Delfino                 |
+| Lucía Ziegler                   |
+| Marcelo Loureiro                |
+| María José Rodríguez Cajarville |
+| Mariana Cosse                   |
+| Matilde Alfaro                  |
+| Mauricio Bonifacino             |
+| Melitta Meneghel                |
+| Mercedes Rivas                  |
+| Miguel Simó                     |
+| Patricia Mai                    |
+| Ramiro Pereira                  |
+| Raúl Maneyro                    |
+| Santiago Carreira               |
+| Sebastián Horta                 |
+| Valentina Franco-Trecu          |
+| Wilson Sebastián Serra          |
+| Natalia Zaldúa                  |
 <br />

@@ -8,13 +8,13 @@ title = "Referencias"
 ### Estas son algunas referencias útiles para el manejo de datos, estándares y buenas prácticas  
 
 
-[A Guide to Data Management in Ecology and Evolution. British Ecological Society. 2014.](https://www.britishecologicalsociety.org/wp-content/uploads/2017/06/BES-Data-Guide-2017_web.pdf)  
+[A Guide to Data Management in Ecology and Evolution](https://www.britishecologicalsociety.org/wp-content/uploads/2017/06/BES-Data-Guide-2017_web.pdf) British Ecological Society. 2014. 
 <br />
-[Best Practices for Preparing Environmental Data Sets to Share and Archive. 2010.](http://daac.ornl.gov/PI/BestPractices-2010.pdf)  
+[Best Practices for Preparing Environmental Data Sets to Share and Archive.](http://daac.ornl.gov/PI/BestPractices-2010.pdf) Les A. Hook, Suresh K. Santhana Vannan, Tammy W. Beaty, Robert B. Cook, and Bruce E. Wilson. 2010.
 <br />
-[DataONE Best Practices Primer](https://www.dataone.org/sites/all/documents/DataONE_BP_Primer_020212.pdf)  
+[DataONE Best Practices Primer.](https://www.dataone.org/sites/all/documents/DataONE_BP_Primer_020212.pdf)  Carly Strasser, Robert Cook, William Michener and Amber Budden.
 <br />
-[Darwin Core maintenance group, Biodiversity Information Standards (TDWG) (2014). Darwin Core. Zenodo.](https://doi.org/10.5281/zenodo.592792)  
+[Darwin Core maintenance group, Biodiversity Information Standards (TDWG).](https://doi.org/10.5281/zenodo.592792) Darwin Core. Zenodo. 2014. 
 <br />
-[How to Develop a Data Management and Sharing Plan. Jones, S. 2011.](http://www.dcc.ac.uk/resources/how-guides)  
+[How to Develop a Data Management and Sharing Plan.](http://www.dcc.ac.uk/resources/how-guides)  Jones, S. 2011.
 
