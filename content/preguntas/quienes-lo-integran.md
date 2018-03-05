@@ -27,7 +27,6 @@ En esta primer etapa del proyecto se están incorporando miembros que pueden apo
 | Carlos Brussa |
 | Carlos Prigioni |
 | Carmen Viera |
-| César Fagúndez |
 | Claudio Borteiro |
 | Daniel Naya |
 | Diego Queirolo |
