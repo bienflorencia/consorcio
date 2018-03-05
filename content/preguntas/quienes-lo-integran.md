@@ -9,10 +9,10 @@ El consorcio se está ensamblando en base a una lista de 60 renombrados expertos
 En esta primer etapa del proyecto se están incorporando miembros que pueden aportar datos que cubran ya sea una categoría taxonómica completa (e.g., todos los anuros, todos los roedores, etc) o áreas geográficas de enorme cobertura (varios departamentos, el Uruguay entero, etc). 
 <br />
 
-Lista de especialistas contactados hasta el momento
+### Lista de especialistas contactados hasta el momento:
 <br />
 
-| Especialistas |
+| **_** |
 |:-------------------------------:|
 | Adrián Azpiroz |
 | Alejandro Brazeiro |
@@ -27,6 +27,7 @@ Lista de especialistas contactados hasta el momento
 | Carlos Brussa |
 | Carlos Prigioni |
 | Carmen Viera |
+| César Fagúndez |
 | Claudio Borteiro |
 | Daniel Naya |
 | Diego Queirolo |
@@ -49,14 +50,13 @@ Lista de especialistas contactados hasta el momento
 | Liliana Delfino |
 | Lucía Ziegler |
 | Marcelo Loureiro |
-| María José Rodríguez Cajarville |
+| María José Rodríguez-Cajarville |
 | Mariana Cosse |
 | Matilde Alfaro |
 | Mauricio Bonifacino |
 | Melitta Meneghel |
 | Mercedes Rivas |
 | Miguel Simó |
-| Natalia Zaldúa |
 | Patricia Mai |
 | Ramiro Pereira |
 | Raúl Maneyro |
@@ -64,4 +64,5 @@ Lista de especialistas contactados hasta el momento
 | Sebastián Horta |
 | Valentina Franco-Trecu |
 | Wilson Sebastián Serra |
+| Natalia Zaldúa |
 <br />
