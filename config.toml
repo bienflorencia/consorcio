@@ -28,6 +28,13 @@ weight                 = -110
 identifier             = "preguntas y respuestas"
 url                    = "/preguntas/"
 
+[[menu.main]]
+name                   = "Datos"
+weight                 = -100
+identifier             = "datos a ser incorporados en el repositorio "
+url                    = "/datos/"
+
+
 [params]
 include_rss            = false                          # include RSS <link> tag in <head> and show RSS icon
 latestpostscount       = 0                             # how many posts to display on the home page
