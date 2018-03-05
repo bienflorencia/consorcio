@@ -13,7 +13,6 @@ Las tablas contendrán campos relativos a la especie registrada, la localidad y 
 
 Idealmente las columnas (parámetros) a ingresar son los siguientes (los datos en __negrita__ son imprescindibles)[^1]:  
   
-<br />
 
 | Parámetro            | Descripción                                                                                                                 |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------|
