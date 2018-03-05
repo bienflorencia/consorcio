@@ -37,8 +37,11 @@ Idealmente las columnas (parámetros) a ingresar son los siguientes (los datos e
 | recorded_by          | Nombre de la persona que colectó el registro                                                                                |
 | identified_by        | Nombre de la persona que identificó el registro                                                                             |
 
+[^1].
 
-*Términos tomados del Darwin Core, un estándar diseñado con el propósito de crear un lenguaje común para publicar y documentar datos sobre registros biológicos (observaciones o ejemplares de colección), listas de especies y catálogos taxonómicos.*  
+
+
+ 
 
 
 >En caso de que las tablas no sigan estos parámetros, no cuenten con los datos obligatorios o contengan datos en diferentes formatos a los esperados, **esto no representará un problema** ya que las mismas se adaptarán para cumplir con los estándares detallados (como parte de la tarea curatorial de los datos). Cualquier otro tipo de parámetro adicional que contenga la tabla enriquecerá el dato del registro extraordinariamente (por ejemplo: sex, lifeStage, reproductiveCondition), se podrán agregar luego de las columnas mencionadas y serán adaptados a los estándares previstos, según los términos de Darwin Core.  
@@ -48,4 +51,7 @@ Idealmente las columnas (parámetros) a ingresar son los siguientes (los datos e
 
 ### Lista de especies 
 Dado que los investigadores pueden tener sus datos en este formato, además de tablas con registros individuales, se aceptarán registros en listas. En este caso el archivo será un inventario de organismos para un mismo punto geográfico o varias coordenadas, con una fecha de colecta. Una vez adaptados los archivos, los parámetros a ser completados para estos registros serán los mismos que para las tablas.  
+
+…
+[^1]: *Términos tomados del Darwin Core, un estándar diseñado con el propósito de crear un lenguaje común para publicar y documentar datos sobre registros biológicos (observaciones o ejemplares de colección), listas de especies y catálogos taxonómicos.* 
 
