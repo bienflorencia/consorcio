@@ -14,7 +14,7 @@ Las tablas contendrán campos relativos a la especie registrada, la localidad y 
 Idealmente las columnas (parámetros) a ingresar son los siguientes (los datos en __negrita__ son imprescindibles)[^1]:  
   
 
-| *Parámetro* | *Descripción* |
+| PARÁMETRO | DESCRIPCIÓN |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | **scientificName** | Nombre científico del organismo registrado. |
 | scientificNameID | Identificador para relacionar el registro con el nombre taxonómico aceptado |
@@ -29,15 +29,15 @@ Idealmente las columnas (parámetros) a ingresar son los siguientes (los datos e
 | **decimalLatitude** | En grados decimales. Ejemplo: -33.0000 |
 | **decimalLongitude** | En grados decimales. Ejemplo: -58.0000 |
 | **eventDate** | Fecha de colecta. Formato dd-mm-aaaa |
-| year | Año. Formato aaaa |
-| month | Mes. Formato mm |
-| day | Día. Formato dd |
+| year | Año. Formato aaaa. Esta información se determina informáticamente a partir del eventDate. |
+| month | Mes. Formato mm. Esta información se determina informáticamente a partir del eventDate. |
+| day | Día. Formato dd. Esta información se determina informáticamente a partir del eventDate. |
+| recordedBy | Nombre de la persona que colectó el registro. |
+| identifiedBy | Nombre de la persona que identificó el registro. |
 | basisOfRecord | Describe la naturaleza del registro. Ejemplos: PreservedSpecimen, LivingSpecimen, HumanObservation, and MachineObservation. |
 | institutionCode | Código de identificación de la institución que posee los datos. Ejemplos: A, B, C. |
 | collectionCode | Código de identificación de la colección. Ejemplos: A-HERP, B-REPTILES, C-MAM, etc. |
 | catalogNumber | Código de identificación del registro en la Colección. Ejemplos: A-HERP-001, B-REPTILES-001, C-MAM-001, etc. |
-| recordedBy | Nombre de la persona que colectó el registro. |
-| identifiedBy | Nombre de la persona que identificó el registro. |
 | record_number | Código del registro en la Colección. Ejemplo: A-HERP-001, B-REPTILES-001, C-MAM-001, etc. |
 
 <br />
