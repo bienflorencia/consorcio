@@ -36,8 +36,6 @@ Idealmente las columnas (parámetros) a ingresar son los siguientes (los datos e
 | recordedBy           | Nombre de la persona que colectó el registro.                                                                               |
 | identifiedBy         | Nombre de la persona que identificó el registro.                                                                            |
 | record_number        | Código del registro en la Colección. Ejemplo: A-HERP-001, B-REPTILES-001, C-MAM-001, etc.                                   |
-| recorded_by          | Nombre de la persona que colectó el registro                                                                                |
-| identified_by        | Nombre de la persona que identificó el registro                                                                             |
 
 <br />
 
