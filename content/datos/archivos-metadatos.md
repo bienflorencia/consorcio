@@ -5,7 +5,7 @@ title = "¿Qué información deben contener los archivos con metadatos?"
 
 +++
 
-<p style='text-align: justify;'>Para que el conjunto de datos pueda ingresarse en el repositorio del Consorcio se va a generar un archivo descriptivo de los metadatos que debe incluir la siguiente información a nivel de proyecto y datos (los datos en __negrita__ son imprescindibles):</p>  
+<p style='text-align: justify;'>Para que el conjunto de datos pueda ingresarse en el repositorio del Consorcio se va a generar un archivo descriptivo de los metadatos que debe incluir la siguiente información a nivel de proyecto y datos (los datos en **negrita** son imprescindibles):</p>  
 
 
 | Parámetro         | Descripción                                                                                                                                                                 |
@@ -25,4 +25,5 @@ title = "¿Qué información deben contener los archivos con metadatos?"
 
 <br />
     
-><p style='text-align: justify;'>En caso de que el conjunto de datos no cuente con un archivo de metadatos, **esto no representará un problema** ya que el mismo será generado a partir de la información prevista por los/las investigadores/as (como parte de la tarea curatorial de los datos).</p>  
+><p style='text-align: justify;'>En caso de que el conjunto de datos no cuente con un archivo de metadatos, **esto no representará un problema** ya que el mismo será generado a partir de la información prevista por los/las investigadores/as (como parte de la tarea curatorial de los datos).</p>
+
