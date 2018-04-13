@@ -17,7 +17,7 @@ Una vez construido el dataset cualquier miembro del Consorcio, en acuerdo con el
 ### FAIR data
 
 <p style='text-align: justify;'>
-Para crear el conjunto de datos del Consorcio del Consorcio de Datos de Biodiversidad del Uruguay y este Data Paper se buscará seguir los principios de FAIRness — Findable, Accessible, Interoperable & Re-usable. Los principios FAIR están enfocados en asegurar que los objetos de investigación sean reutilizables. Éste es el objetivo máximo, compartir datos para que puedan ser utilizados por otros y otras. Por esto debemos crear un producto de investigación valioso, que luego pueda ser rigurosamente evaluado y reutilizado extensamente, con el crédito apropiado, en beneficio tanto de la persona que crear como la que lo usa.
+Para crear el conjunto de datos del Consorcio del Consorcio de Datos de Biodiversidad del Uruguay y este Data Paper se buscará seguir los principios de FAIRness — Findable, Accessible, Interoperable & Re-usable. Los principios FAIR están enfocados en asegurar que los objetos de investigación sean reutilizables. Éste es el objetivo máximo, compartir datos para que puedan ser utilizados por otros y otras. Por esto debemos crear un producto de investigación valioso, que luego pueda ser rigurosamente evaluado y reutilizado extensamente, con el crédito apropiado, en beneficio tanto de la persona que crea el dato como la que lo usa.
 </p>
 
 <br />
