@@ -5,9 +5,11 @@ title = "¿Quiénes forman parte del Consorcio?"
 
 +++
 
-El consorcio se está ensamblando en base a una lista de 60 renombrados expertos y expertas que cubren la biodiversidad del país.
+<p style='text-align: justify;'>El consorcio se está ensamblando en base a una lista de 60 renombrados expertos y expertas que cubren la biodiversidad del país.</p>
+
 <br />
-En esta primer etapa del proyecto se están incorporando miembros que pueden aportar datos que cubran ya sea una categoría taxonómica completa (e.g., todos los anuros, todos los roedores, etc) o áreas geográficas de gran cobertura (varios departamentos, el Uruguay entero, etc). 
+<p style='text-align: justify;'>En esta primer etapa del proyecto se están incorporando miembros que pueden aportar datos que cubran ya sea una categoría taxonómica completa (e.g., todos los anuros, todos los roedores, etc) o áreas geográficas de gran cobertura (varios departamentos, el Uruguay entero, etc).</p> 
+
 <br />
 
 ### Lista de las personas contactadas hasta el momento:
