@@ -7,6 +7,7 @@ title = "¿Cómo se hará la gestión y administración de los datos?"
 
 <p style='text-align: justify;'>
 Una vez construido el dataset cualquier miembro del Consorcio en acuerdo con el resto de los/as integrantes podrá hacer uso de los datos antes de su apertura de acceso una vez publicados los artículos propuestos.
+</p> 
 
 
 ### Data Paper
