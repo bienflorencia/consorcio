@@ -14,6 +14,8 @@ Para crear el conjunto de datos del Consorcio del Consorcio de Datos de Biodiver
 </p>
 
 
+
+
 FINDABLE – **Encontrables**
 <p style='text-align: justify;'>Esto incluye asignar un identificador persistente (como un DOI), tener metadatos enriquecidos para describir los datos y asegurarse de que se puedan encontrar a través de repositorios (locales e internacionales).</p>
 
