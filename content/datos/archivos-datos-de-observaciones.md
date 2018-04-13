@@ -31,17 +31,17 @@ Idealmente las columnas (parámetros) a ingresar son los siguientes (los datos e
 | locality | Localidad de colecta. |
 | **decimalLatitude** | En grados decimales. Ejemplo: -33.0000 |
 | **decimalLongitude** | En grados decimales. Ejemplo: -58.0000 |
-| **eventDate** | Fecha de colecta. Formato dd-mm-aaaa |
+| eventDate | Fecha de colecta. Formato dd-mm-aaaa |
 | year | Año. Formato aaaa. Esta información se determina informáticamente a partir del eventDate. |
 | month | Mes. Formato mm. Esta información se determina informáticamente a partir del eventDate. |
 | day | Día. Formato dd. Esta información se determina informáticamente a partir del eventDate. |
-| recordedBy | Nombre de la persona que colectó el registro. |
-| identifiedBy | Nombre de la persona que identificó el registro. |
 | basisOfRecord | Describe la naturaleza del registro. Ejemplos: PreservedSpecimen, LivingSpecimen, HumanObservation, and MachineObservation. |
 | institutionCode | Código de identificación de la institución que posee los datos. Ejemplos: A, B, C. |
 | collectionCode | Código de identificación de la colección. Ejemplos: A-HERP, B-REPTILES, C-MAM, etc. |
 | catalogNumber | Código de identificación del registro en la Colección. Ejemplos: A-HERP-001, B-REPTILES-001, C-MAM-001, etc. |
-| record_number | Código del registro en la Colección. Ejemplo: A-HERP-001, B-REPTILES-001, C-MAM-001, etc. |
+| recordedBy | Nombre de la persona que colectó el registro. |
+| identifiedBy | Nombre de la persona que identificó el registro. |
+| reference | Cita Bibliográfica de la publicación o del conjunto de datos (si hubiera) |
 
 <br />
 
