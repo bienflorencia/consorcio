@@ -6,14 +6,11 @@ title = "¿Cómo se hará la gestión y administración de los datos?"
 +++
 
 <p style='text-align: justify;'>
-Una vez construido el dataset cualquier miembro del Consorcio en acuerdo con el resto de los/as integrantes podrá hacer uso de los datos antes de su apertura de acceso una vez publicados los artículos propuestos.
+Previamente a publicar los artículos propuestos, el dataset generado a partir de los datos proporcionados por los integrantes del Consorcio será publicado como un Data Paper. Esto permite que el conjunto de datos tenga un DOI (Digital Object Identifier), es decir, un código que lo identifica online de forma permanente y estable.
 </p> 
 
-
-### Data Paper
-
 <p style='text-align: justify;'>
-Previamente a publicar los artículos, el dataset generado a partir de los datos proporcionados por los integrantes del Consorcio será publicado como un Data Paper. Esto permite que el conjunto de datos tenga un DOI (Digital Object Identifier), es decir, un código que lo identifica online de forma permanente y estable.
+Una vez construido el dataset cualquier miembro del Consorcio, en acuerdo con el resto de los/as integrantes, podrá hacer uso de los datos antes de que sean publicados como Data Papaer.
 </p> 
 
 
