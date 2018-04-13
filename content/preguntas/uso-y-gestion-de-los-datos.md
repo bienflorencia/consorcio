@@ -1,5 +1,5 @@
 +++
-date = "2018-01-25T17:14:07Z"
+date = "2018-01-26T17:14:07Z"
 draft = false
 title = "¿Cómo se hará la gestión y administración de los datos?"
 
