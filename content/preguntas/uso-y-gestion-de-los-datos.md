@@ -5,7 +5,7 @@ title = "¿Cómo se hará la gestión y administración de los datos?"
 
 +++
 
-El dataset generado a partir de los datos proporcionados por los integrantes del Consorcio será publicado como un **Data Paper**. Esto permite que el conjunto de datos tenga un DOI (Digital Object Identifier), es decir, un código que lo identifica online de forma permanente y estable. 
+Una vez construido el **dataset** cualquier miembro del Consorcio en acuerdo con el resto de los/as integrantes podrá hacer uso de los datos. Asimismo el dataset generado a partir de los datos proporcionados por los integrantes del Consorcio será publicado como un **Data Paper**. Esto permite que el conjunto de datos tenga un DOI (Digital Object Identifier), es decir, un código que lo identifica online de forma permanente y estable. 
 
 Para crear el conjunto de datos del Consorcio del Consorcio de Datos de Biodiversidad del Uruguay y este Data Paper se buscará seguir los principios de FAIRness — Findable, Accessible, Interoperable & Re-usable. Los principios **FAIR** están enfocados en asegurar que los objetos de investigación sean reutilizables. Éste es el objetivo máximo, compartir datos para que puedan ser utilizados por otros y otras. Por esto debemos crear un producto de investigación valioso, que luego pueda ser rigurosamente evaluado y reutilizado extensamente, con el crédito apropiado, en beneficio tanto de la persona que crear como la que lo usa.
 
