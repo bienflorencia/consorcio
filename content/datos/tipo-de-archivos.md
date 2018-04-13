@@ -8,9 +8,10 @@ title = "¿Qué tipo de archivos serán reunidos?"
 <p style='text-align: justify;'>
 Los datos que serán incorporados en el repositorio del Consorcio pertenecen a dos categorías de archivos diferentes, 
 </p>
-1) __Datos de observaciones__, y 2) __Metadatos__ (los datos de los datos).
-  
 
+
+**Datos de observaciones**, y **Metadatos** (los datos de los datos).
+  
 
 <p style='text-align: justify;'>
 1. Los archivos con datos de observaciones podrán ser tablas con registros individuales o listas de especies asociadas a puntos o a una localidad. El formato ideal es la tabla con registros ya que se individualiza cada registro respecto a una colección o archivo de información. Sin embargo, es posible que una parte de la información hoy esté en formato de listas de especies, así que se tomarán las listas y se las adaptará a tablas.

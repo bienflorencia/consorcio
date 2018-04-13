@@ -5,16 +5,17 @@ title = "¿Qué información deben contener los archivos con datos de observacio
 
 +++
 
-1. Tablas con registros individuales  
+
+## 1. Tablas con registros individuales  
 
 <p style='text-align: justify;'>
 Las tablas contendrán campos relativos a la especie registrada, la localidad y fecha de colecta e información sobre su colector y lugar de almacenamiento. Cada fila en un archivo representa un registro completo y las columnas representan todos los parámetros que componen el registro (formato de hoja de cálculo).
 </p>
 
-<br />
 
 Idealmente las columnas (parámetros) a ingresar son los siguientes (los datos en __negrita__ son imprescindibles)[^1]:  
-  
+<br />
+
 
 | PARÁMETRO | DESCRIPCIÓN |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -49,7 +50,8 @@ Idealmente las columnas (parámetros) a ingresar son los siguientes (los datos e
 <br />
 
 
-2. Lista de especies 
+## 2. Lista de especies
+
 <p style='text-align: justify;'>
 Dado que los investigadores pueden tener sus datos en este formato, además de tablas con registros individuales, se aceptarán registros en listas. En este caso el archivo será un inventario de organismos para un mismo punto geográfico o varias coordenadas, con una fecha de colecta. Una vez adaptados los archivos, los parámetros a ser completados para estos registros serán los mismos que para las tablas.
 </p>  
