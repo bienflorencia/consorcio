@@ -5,7 +5,7 @@ title = "¿Cuáles son los artículos a publicar en esta primer etapa?"
 
 +++
 
-<p style='text-align: justify;'>Los 3 primeros artículos harán foco en los patrones de distribución de la riqueza biológica de **vertebrados tetrápodos**, **invertebrados** y **plantas**. El siguiente artículo consistirá en la evaluación de la congruencia entre las áreas identificadas para los tres grupos estudiados, a gran escala (espacial y taxonómica).</p>
+Los 3 primeros artículos harán foco en los patrones de distribución de la riqueza biológica de **vertebrados tetrápodos**, **invertebrados** y **plantas**. El siguiente artículo consistirá en la evaluación de la congruencia entre las áreas identificadas para los tres grupos estudiados, a gran escala (espacial y taxonómica).
 <br />
 
 ### Para los tres primeros artículos propuestos se buscará:
