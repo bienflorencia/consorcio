@@ -5,11 +5,14 @@ title = "¿Qué tipo de información se va a compartir?"
 
 +++
 
-<p style='text-align: justify;'>La base de datos del Consorcio contará con datos primarios de biodiversidad. Es decir, con registros de presencia de especies en el territorio nacional.
+<p style='text-align: justify;'>
+La base de datos del Consorcio contará con datos primarios de biodiversidad. Es decir, con registros de presencia de especies en el territorio nacional.
 </p>  
 
 
+
 | **taxón** | **localización geográfica** | **fecha** |
+|:---------:|:---------------------------:|:---------:|
 
 
 

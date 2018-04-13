@@ -6,11 +6,11 @@ title = "¿Qué tipo de archivos serán reunidos?"
 +++
 
 <p style='text-align: justify;'>
-Los datos que serán incorporados en el repositorio del Consorcio pertenecen a dos categorías de archivos diferentes, 
+Los datos que serán incorporados en el repositorio del Consorcio pertenecen a dos categorías de archivos diferentes: 
 </p>
 
 
-**Datos de observaciones**, y **Metadatos** (los datos de los datos).
+**Datos de observaciones** y **Metadatos** (los datos de los datos).
   
 
 <p style='text-align: justify;'>

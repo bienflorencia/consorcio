@@ -8,13 +8,17 @@ title = "¿Qué implica para los/as integrantes formar parte esta asociación?"
 <p style='text-align: justify;'>
 Los y las integrantes del Consorcio deberán disponibilizar sus registros de especies en formato de tablas con al menos la siguiente información:
 </p>
+
+
 **especie**, **coordenadas geográficas** y **fecha de colecta**.
+
 <br />
 
 <p style='text-align: justify;'>
 Cualquier tipo de información adicional enriquecerá el dato extraordinariamente. Maximizar el potencial de los datos es esencial ya que, si bien los artículos propuestos en principio hacen referencia a la distribución de los organismos, los datos a futuro podrían ser usados para estudiar otras cuestiones de interés. En caso de que parte de la información no se encuentre estandarizada, esto no sería un problema ya que yo me ofrezco a terminar de curar los datos (por ejemplo, si se cuenta con la localidad, pero no con las coordenadas geográficas). La idea es dar gran flexibilidad para compartir los datos ya que lo importante es reunir la máxima cantidad de registros de calidad.
 </p>
 <br />
+
 
 ### Embargo de datos
 <p style='text-align: justify;'>
