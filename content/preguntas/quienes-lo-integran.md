@@ -6,7 +6,7 @@ title = "¿Quiénes forman parte del Consorcio?"
 +++
 
 <p style='text-align: justify;'>
-El consorcio se está ensamblando en base a una lista de 60 renombrados expertos y expertas que cubren la biodiversidad del país.
+El consorcio se está ensamblando en base a una lista de renombrados expertos y expertas que cubren la biodiversidad del país.
 </p>
 
 <p style='text-align: justify;'>
