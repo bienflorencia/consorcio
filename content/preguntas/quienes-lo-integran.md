@@ -18,7 +18,7 @@ En esta primer etapa del proyecto se están incorporando miembros que pueden apo
 
 
 | **Especialistas** |
-|---------------------------------|
+|:-------------------------------:|
 | Adrián Azpiroz |
 | Alejandro Fallabrino |
 | Alvaro Laborda |
