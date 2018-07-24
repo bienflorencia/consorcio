@@ -31,6 +31,7 @@ En esta primer etapa del proyecto se están incorporando miembros que pueden apo
 | Carlos Brussa |
 | Carmen Viera |
 | César Fagúndez |
+| Daniel Hernández |
 | Daniel Naya |
 | Diego Queirolo |
 | Enrique González |
@@ -58,11 +59,11 @@ En esta primer etapa del proyecto se están incorporando miembros que pueden apo
 | Mercedes Rivas |
 | Miguel Simó |
 | Natalia Zaldúa |
+| Noelia Gobel |
 | Pablo Berazategui |
 | Patricia Mai |
 | Ramiro Pereira |
 | Raúl Maneyro |
-| Santiago Carreira |
 | Sebastián Horta |
 | Wilson Sebastián Serra |
 <br />
