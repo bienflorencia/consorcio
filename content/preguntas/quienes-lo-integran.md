@@ -16,54 +16,52 @@ En esta primer etapa del proyecto se están incorporando miembros que pueden apo
 
 ### Lista de las personas contactadas hasta el momento:
 
-
-| **Especialistas** |
 |:-------------------------------:|
-| Adrián Azpiroz |
-| Alejandro Fallabrino |
-| Alvaro Laborda |
-| Álvaro Soutullo |
-| Ana Laura Rodales |
-| Ana Verdi |
-| Andrés Estrades |
-| Andrés González |
-| Arley Camargo |
-| Carlos Brussa |
-| Carmen Viera |
-| César Fagúndez |
-| Daniel Hernández |
-| Daniel Naya |
-| Diego Queirolo |
-| Enrique González |
-| Enrique Lessa |
-| Fernando Pérez-Miles |
-| Fernando Pérez-Piedrabuena |
-| Franco Teixeira de Mello |
-| Gabriel Laufer |
-| Gabriela Bentancur-Viglione |
-| Germán Botto |
-| Graciela García |
-| Inés da Rosa |
-| Javier González |
-| Joaquín Aldabe |
-| José Carlos Guerrero Antúnez |
-| José Manuel Venzal |
-| Juan Andrés Martínez-Lanfranco |
-| Liliana Delfino |
-| Lucía Ziegler |
-| Marcelo Loureiro |
+|          Adrián Azpiroz         |
+|       Alejandro Fallabrino      |
+|          Alvaro Laborda         |
+|         Álvaro Soutullo         |
+|        Ana Laura Rodales        |
+|            Ana Verdi            |
+|         Andrés Estrades         |
+|         Andrés González         |
+|          Arley Camargo          |
+|          Carlos Brussa          |
+|           Carmen Viera          |
+|          César Fagúndez         |
+|         Daniel Hernández        |
+|           Daniel Naya           |
+|          Diego Queirolo         |
+|         Enrique González        |
+|          Enrique Lessa          |
+|       Fernando Pérez-Miles      |
+|    Fernando Pérez-Piedrabuena   |
+|     Franco Teixeira de Mello    |
+|          Gabriel Laufer         |
+|   Gabriela Bentancur-Viglione   |
+|           Germán Botto          |
+|         Graciela García         |
+|           Inés da Rosa          |
+|         Javier González         |
+|          Joaquín Aldabe         |
+|   José Carlos Guerrero Antúnez  |
+|        José Manuel Venzal       |
+|  Juan Andrés Martínez-Lanfranco |
+|         Liliana Delfino         |
+|          Lucía Ziegler          |
+|         Marcelo Loureiro        |
 | María José Rodríguez Cajarville |
-| Matilde Alfaro |
-| Mauricio Bonifacino |
-| Melitta Meneghel |
-| Mercedes Rivas |
-| Miguel Simó |
-| Natalia Zaldúa |
-| Noelia Gobel |
-| Pablo Berazategui |
-| Patricia Mai |
-| Ramiro Pereira |
-| Raúl Maneyro |
-| Sebastián Horta |
-| Wilson Sebastián Serra |
+|          Matilde Alfaro         |
+|       Mauricio Bonifacino       |
+|         Melitta Meneghel        |
+|          Mercedes Rivas         |
+|           Miguel Simó           |
+|          Natalia Zaldúa         |
+|           Noelia Gobel          |
+|        Pablo Berazategui        |
+|           Patricia Mai          |
+|          Ramiro Pereira         |
+|           Raúl Maneyro          |
+|         Sebastián Horta         |
+|      Wilson Sebastián Serra     |
 <br />
