@@ -34,6 +34,12 @@ weight                 = -100
 identifier             = "datos a ser incorporados en el repositorio "
 url                    = "/datos/"
 
+[[menu.main]]
+name                   = "Publicaciones"
+weight                 = -90
+identifier             = "publicaciones"
+url                    = "/publicaciones/"
+
 
 [params]
 include_rss            = false                          # include RSS <link> tag in <head> and show RSS icon
