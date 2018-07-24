@@ -29,17 +29,14 @@ En esta primer etapa del proyecto se están incorporando miembros que pueden apo
 | Andrés González |
 | Arley Camargo |
 | Carlos Brussa |
-| Carlos Prigioni |
 | Carmen Viera |
 | César Fagúndez |
-| Claudio Borteiro |
 | Daniel Naya |
 | Diego Queirolo |
 | Enrique González |
 | Enrique Lessa |
 | Fernando Pérez-Miles |
 | Fernando Pérez-Piedrabuena |
-| Francisco Kolenc |
 | Franco Teixeira de Mello |
 | Gabriel Laufer |
 | Gabriela Bentancur-Viglione |
