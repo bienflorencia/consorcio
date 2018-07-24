@@ -16,6 +16,7 @@ En esta primer etapa del proyecto se están incorporando miembros que pueden apo
 
 ### Lista de las personas contactadas hasta el momento:
 
+|                -                |
 |:-------------------------------:|
 |          Adrián Azpiroz         |
 |       Alejandro Fallabrino      |
