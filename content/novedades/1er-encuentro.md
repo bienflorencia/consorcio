@@ -4,6 +4,9 @@ draft = false
 title = "1er Encuentro del Consorcio de Datos de Biodiversidad del Uruguay"
 +++
 
+
+![foto](/img/banner.png)
+
 <p style='text-align: right;'>
 Viernes 5 de octubre 2018, 
 Facultad de Ciencias, 
@@ -41,4 +44,3 @@ Desarrollo de partners estratégicos y posibilidades de colaboración internacio
 
 Ver y descargar **[Presentación de la Jornada](https://github.com/bienflorencia/consorcio/tree/master/data/PresentationBiodiversidata.pdf)**
 
-![foto](/img/foto-encuentro.png)
