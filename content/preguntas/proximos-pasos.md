@@ -5,16 +5,16 @@ title = "¿Cuáles son los próximos pasos?"
 
 +++
 
-+ En este momento se está diseñando la **web y la identidad** del Consorcio, es decir enel lenguaje visual de la organización. Por otro lado, también se está planificando el diseño de la plataforma que alojará la base de datos.
++ Fue enviado y aceptado para su publicación el mauscrito que analiza la **encuesta** “Disponibilidad de datos sobre biodiversidad en Uruguay”. Ver resumen en [Publicaciones](/publicaciones/).
 
-+ Se está comenzando a relevar información sobre los **integrantes** del Consorcio.
++ Se han sistematizado más de 120 mil **datos de registros** de vertebrados tetrápodos (aves, anfibios, mamíferos y reptiles)
 
-+ Se están recibiendo los primeros **archivos de datos** de vertebrados tetrápodos (aves, anfibios, mamíferos y reptiles), para dar inicio al primer artículo propuesto.
++ Se realizó el **1er Encuentro del Consorcio de Biodiversidad del Uruguay**. Ver informe y presentación en [Novedades](/publicaciones/).
 
-+ Próximamente se realizará el análisis de la **encuesta** “Disponibilidad de datos sobre biodiversidad en Uruguay” que hasta el momento más de 80 personas han respondido. 
++ 
 
-+ Se esta planificando hacia fines de año realizar el **1er Congreso de Biodiversidad del Uruguay**, una primer instancia en la que nos encontremos con el objetivo de dialogar en formato de charlas sobre el estado de la biodiversidad en Uruguay, para luego proyectar sobre el Consorcio (*¿de qué se trata?, ¿cuáles son las ambiciones?, ¿por qué es importante?*), y cerrar con la organización de una agenda con metas claves y nuevas ideas a liderar.
++ En este momento se está terminando de diseñar la **web y la identidad** del Consorcio, es decir enel lenguaje visual de la organización. Por otro lado, también se está planificando el diseño de la plataforma que alojará la base de datos.
 
 <br />
 
-**Marzo, 2018**
+**Noviembre, 2018**
