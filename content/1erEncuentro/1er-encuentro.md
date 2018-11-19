@@ -10,12 +10,10 @@ Facultad de Ciencias,
 Montevideo
 </p>
 
-### Participantes 
-<p style='text-align: justify;'>
-Carmen Viera, Daniel Hernández, Gabriel Laufer, Inés da Rosa, José Carlos Guerrero, Juan Andrés Martínez-Lanfranco, Miguel Simó, Nestor Ríos y Noelia Gobel.
-</p>
 
 ### Plan de la jornada
+
+<p style='text-align: justify;'>
 
 1. **Presentación Biodiversidata**  
 ¿Cómo surge y cuáles son los objetivos?
@@ -39,7 +37,7 @@ Desarrollo de la plataforma web para permitir el acceso y manejo sencillo de los
 Digitalización de nuevos datos: invertebrados y plantas.  
 Propuestas de nuevos artículos y datos a publicar.  
 Desarrollo de partners estratégicos y posibilidades de colaboración internacional.  
-
+</p>
 
 ### PDF
 
