@@ -43,8 +43,8 @@ url                    = "/publicaciones/"
 [[menu.main]]
 name                   = "1er Encuentro"
 weight                 = -80
-identifier             = "1erEncuentro"
-url                    = "/1erEncuentro/"
+identifier             = "novedades"
+url                    = "/novedades/"
 
 
 
