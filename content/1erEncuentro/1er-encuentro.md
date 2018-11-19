@@ -10,8 +10,6 @@ Facultad de Ciencias,
 Montevideo
 </p>
 
-Ver y descargar la [Presentación de la Jornada](https://github.com/bienflorencia/consorcio/tree/master/data/PresentationBiodiversidata.pdf) 
-
 
 ### Plan de la jornada
 
@@ -37,4 +35,7 @@ Desarrollo de la plataforma web para permitir el acceso y manejo sencillo de los
 Digitalización de nuevos datos: invertebrados y plantas.  
 Propuestas de nuevos artículos y datos a publicar.  
 Desarrollo de partners estratégicos y posibilidades de colaboración internacional.  
+
+
+**Ver y descargar la [Presentación de la Jornada](https://github.com/bienflorencia/consorcio/tree/master/data/PresentationBiodiversidata.pdf)**
 
