@@ -5,16 +5,14 @@ title = "1er Encuentro del Consorcio de Datos de Biodiversidad del Uruguay"
 
 +++
 
-<p style='text-align: right;'>
 Viernes 5 de octubre 2018, 
 Facultad de Ciencias, 
 Montevideo
-</p>
+
 
 ### Participantes 
-<p style='text-align: justify;'>
 Carmen Viera, Daniel Hernández, Gabriel Laufer, Inés da Rosa, José Carlos Guerrero, Juan Andrés Martínez-Lanfranco, Miguel Simó, Nestor Ríos y Noelia Gobel.
-</p>
+
 
 ### Plan de la jornada
 
