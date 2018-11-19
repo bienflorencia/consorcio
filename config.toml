@@ -41,7 +41,7 @@ identifier             = "publicaciones"
 url                    = "/publicaciones/"
 
 [[menu.main]]
-name                   = "1er Encuentro"
+name                   = "Novedades"
 weight                 = -80
 identifier             = "novedades"
 url                    = "/novedades/"
