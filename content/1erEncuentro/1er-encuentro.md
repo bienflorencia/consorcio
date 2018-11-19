@@ -10,6 +10,7 @@ Facultad de Ciencias,
 Montevideo
 </p>
 
+![banner](/banner.png)
 
 ### Plan de la jornada
 
@@ -37,7 +38,8 @@ Propuestas de nuevos artículos y datos a publicar.
 Desarrollo de partners estratégicos y posibilidades de colaboración internacional.  
 
 
-
 ### PDF 
 Ver y descargar **[Presentación de la Jornada](https://github.com/bienflorencia/consorcio/tree/master/data/PresentationBiodiversidata.pdf)**
 
+Cómo descargar
+![como-descargar](/como-descargar.png)
