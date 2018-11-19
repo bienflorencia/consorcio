@@ -41,4 +41,5 @@ Desarrollo de partners estratégicos y posibilidades de colaboración internacio
 ### PDF 
 Ver y descargar **[Presentación de la Jornada](https://github.com/bienflorencia/consorcio/tree/master/data/PresentationBiodiversidata.pdf)**
 
-Cómo descargar ![como-descargar](como-descargar.jpg)
+Para descargar:
+![como-descargar](consorcio/content/1erEncuentro/como-descargar.jpg)
