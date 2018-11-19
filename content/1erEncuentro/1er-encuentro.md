@@ -17,9 +17,9 @@ Carmen Viera, Daniel Hernández, Gabriel Laufer, Inés da Rosa, José Carlos Gue
 </p>
 
 ### Plan de la jornada
-<p style='text-align: justify;'>
+
 1.	Presentación Biodiversidata 
--	¿Cómo surge y cuáles son los objetivos?
+- ¿Cómo surge y cuáles son los objetivos?
 
 2.	Avances hasta el momento
 -	Digitalización y sistematización de datos de tetrápodos, estándares y controles de calidad.
@@ -37,9 +37,9 @@ Carmen Viera, Daniel Hernández, Gabriel Laufer, Inés da Rosa, José Carlos Gue
 -	Digitalización de nuevos datos: invertebrados y plantas.
 -	Propuestas de nuevos artículos y datos a publicar.
 -	Desarrollo de partners estratégicos y posibilidades de colaboración internacional.
-</p>
 
-### Resumen
+
+### PDF
 <p style='text-align: justify;'>
- 
+ver [Presentación Biodiversidata](/data/PresentationBiodiversidata.pdf) 
 </p>
