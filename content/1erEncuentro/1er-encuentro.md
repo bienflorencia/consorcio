@@ -20,13 +20,13 @@ Carmen Viera, Daniel Hernández, Gabriel Laufer, Inés da Rosa, José Carlos Gue
 
 1.	Presentación Biodiversidata 
 
-    +   ¿Cómo surge y cuáles son los objetivos?
+. ¿Cómo surge y cuáles son los objetivos?
 
 2.	Avances hasta el momento
 
-    *   Digitalización y sistematización de datos de tetrápodos, estándares y controles de calidad.
-    *   Presentación de los principales mapas de distribución de registros.
-    *   Presentación del primer artículo a ser enviado para su publicación.
+. Digitalización y sistematización de datos de tetrápodos, estándares y controles de calidad.
+. Presentación de los principales mapas de distribución de registros.
+. Presentación del primer artículo a ser enviado para su publicación.
 
 3.	Acuerdos y compromisos
 
