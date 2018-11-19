@@ -20,7 +20,8 @@ Carmen Viera, Daniel Hernández, Gabriel Laufer, Inés da Rosa, José Carlos Gue
 
 1.	Presentación Biodiversidata 
 
-    * ¿Cómo surge y cuáles son los objetivos?
+    . ¿Cómo surge y cuáles son los objetivos?
+    . O
 
 2.	Avances hasta el momento
 
