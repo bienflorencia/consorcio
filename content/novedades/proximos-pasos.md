@@ -1,7 +1,7 @@
 +++
 date = "2018-01-23T18:14:07Z"
 draft = false
-title = "¿Cuáles son los próximos pasos?"
+title = "Biodiversidata hoy y próximos pasos"
 
 +++
 
