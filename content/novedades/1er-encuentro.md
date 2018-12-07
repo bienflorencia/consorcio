@@ -46,5 +46,5 @@ Ver y descargar **[Presentación de la Jornada](/img/PresentationBiodiversidata.
 
 ### Fotos
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/gp/162527005@N03/P5c34q" title="Primer Encuentro del Consorcio de Datos de Biodiversidad del Uruguay"><img src="https://farm5.staticflickr.com/4830/45495316234_b6dc3465c4_z.jpg" width="640" height="425" alt="Primer Encuentro del Consorcio de Datos de Biodiversidad del Uruguay"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/gp/biodiversidata/Y12080" title="Primer Encuentro del Consorcio de Datos de Biodiversidad del Uruguay"><img src="https://farm5.staticflickr.com/4830/45495316234_b6dc3465c4_z.jpg" width="640" height="425" alt="Primer Encuentro del Consorcio de Datos de Biodiversidad del Uruguay"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
