@@ -58,6 +58,9 @@ Idealmente las columnas (parámetros) a ingresar son los siguientes [^1]:
 
 <br />
 
+**Decargue aquí un archivo template: [Formato de Datos](/img/formato_de_registros.ods).**
+
+<br />
 
 [^1]: *Términos tomados del Darwin Core, un estándar diseñado con el propósito de crear un lenguaje común para publicar y documentar datos sobre registros biológicos (observaciones o ejemplares de colección), listas de especies y catálogos taxonómicos. Ver la lista completa de términos [Darwin Core quick reference guide](https://dwc.tdwg.org/terms/)* 
 
