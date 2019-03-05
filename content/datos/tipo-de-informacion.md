@@ -20,6 +20,8 @@ La base de datos del Consorcio contará con datos primarios de biodiversidad. Es
 Si bien la idea inicial es dar gran flexibilidad para compartir los datos ya que lo importante es reunir la máxima cantidad de registros de calidad, en adelante se espera producir conjuntos de datos auto-descriptivos, de tal manera que la información que contengan pueda ser compartida y entendida por otros colegas que no han estado involucrados en generarlos.
 </p>
 
+***
+
 
 ### ¿QUÉ TIPO DE ARCHIVOS SERÁN REUNIDOS?
 
