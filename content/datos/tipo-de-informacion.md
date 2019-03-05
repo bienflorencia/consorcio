@@ -21,6 +21,9 @@ Si bien la idea inicial es dar gran flexibilidad para compartir los datos ya que
 </p>
 
 
+# ¿QUÉ TIPO DE INFORMACIÓN SE VA A COMPARTIR?
+
+
 <p style='text-align: justify;'>
 Los datos que serán incorporados en el repositorio del Consorcio pertenecen a dos categorías de archivos diferentes: 
 </p>
