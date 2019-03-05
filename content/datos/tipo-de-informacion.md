@@ -21,7 +21,7 @@ Si bien la idea inicial es dar gran flexibilidad para compartir los datos ya que
 </p>
 
 
-# ¿QUÉ TIPO DE INFORMACIÓN SE VA A COMPARTIR?
+## ¿QUÉ TIPO DE ARCHIVOS SERÁN REUNIDOS?
 
 
 <p style='text-align: justify;'>
