@@ -1,7 +1,7 @@
 +++
 date = "2018-01-28T18:14:07Z"
 draft = false
-title = "Archivos con datos de observaciones"
+title = "Ver Archivos con Datos de Observaciones"
 
 +++
 
@@ -59,5 +59,5 @@ Idealmente las columnas (parámetros) a ingresar son los siguientes [^1]:
 <br />
 
 
-[^1]: *Términos tomados del Darwin Core, un estándar diseñado con el propósito de crear un lenguaje común para publicar y documentar datos sobre registros biológicos (observaciones o ejemplares de colección), listas de especies y catálogos taxonómicos.* 
+[^1]: *Términos tomados del Darwin Core, un estándar diseñado con el propósito de crear un lenguaje común para publicar y documentar datos sobre registros biológicos (observaciones o ejemplares de colección), listas de especies y catálogos taxonómicos. Ver la lista completa de términos [Darwin Core quick reference guide](https://dwc.tdwg.org/terms/)* 
 
