@@ -5,6 +5,10 @@ title = "Ver Archivos con Datos de Observaciones"
 
 +++
 
+<p style='text-align: justify;'>
+Se colectarán tablas con registros de observaciones y/o colectas. Los datos a compartir deben tener como mínimo especie, fecha y lugar de colecta y pueden ser de dos tipos:
+</p>
+
 
 ## 1. Tablas con registros individuales  
 
@@ -20,8 +24,7 @@ Dado que los investigadores pueden tener sus datos en este formato, además de t
 </p>  
 
 <br />
-
-Idealmente las columnas (parámetros) a ingresar son los siguientes [^1]:  
+Todos los datos serán luego sistematizados utilizando las siguientes columnas (parámetros) [^1]:  
 <br />
 
 
