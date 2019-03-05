@@ -6,7 +6,7 @@ title = "Ver Metadatos"
 +++
 
 <p style='text-align: justify;'>
-Para los datos puedan ingresarse en el repositorio del Consorcio y posteriormente ser incluidos en un Data Paper, se va a generar un archivo descriptivo de los metadatos que debe incluir la siguiente información a nivel de proyecto y datos [^1]::
+Para los datos puedan ingresarse en el repositorio del Consorcio y posteriormente ser incluidos en un Data Paper, se va a generar un archivo descriptivo de los metadatos que debe incluir la siguiente información a nivel de proyecto y datos [^1]:
 </p>
 
 
@@ -26,4 +26,4 @@ Para los datos puedan ingresarse en el repositorio del Consorcio y posteriorment
 
 <br />
     
-[^1]: GBIF (2011). GBIF Metadata Profile – How-to Guide, (contributed by Ó Tuama, Eamonn, Braak, K. Remsen, D.), Copenhagen: Global Biodiversity Information Facility ISBN: 87-92020-24-0, accessible online at: https://github.com/gbif/ipt/wiki/GMPHowToGuide
+[^1]: *GBIF (2011). GBIF Metadata Profile – How-to Guide, (contributed by Ó Tuama, Eamonn, Braak, K. Remsen, D.), Copenhagen: Global Biodiversity Information Facility ISBN: 87-92020-24-0, accessible online at: https://github.com/gbif/ipt/wiki/GMPHowToGuide*
