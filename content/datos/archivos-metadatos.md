@@ -6,8 +6,12 @@ title = "Ver Metadatos"
 +++
 
 <p style='text-align: justify;'>
-Para los datos puedan ingresarse en el repositorio del Consorcio y posteriormente ser incluidos en un Data Paper, se va a generar un archivo descriptivo de los metadatos que debe incluir la siguiente información a nivel de proyecto y datos [^1]:
+Para los datos puedan ingresarse en el repositorio del Consorcio y posteriormente ser incluidos en un Data Paper, se va a generar un archivo descriptivo de los metadatos.
 </p>
+
+Incluirá la siguiente información a nivel de proyecto y datos [^1]:
+
+<br />
 
 
 | Term 	| Definition 	|
