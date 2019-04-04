@@ -7,7 +7,7 @@ title = "Referencias"
 
 ### Estas son algunas referencias útiles para el manejo de datos, estándares y buenas prácticas  
 
-+ [Strategies and guidelines for scholarly publishing of biodiversity data](https://riojournal.com/articles.php?journal_name=rio&id=12431)Penev L, Mietchen D, Chavan V, Hagedorn G, Smith V, Shotton D, Ó Tuama É, Senderov V, Georgiev T, Stoev P, Groom Q, Remsen D, Edmunds S. 2017.
++ [Strategies and guidelines for scholarly publishing of biodiversity data.](https://riojournal.com/articles.php?journal_name=rio&id=12431) Penev L, Mietchen D, Chavan V, Hagedorn G, Smith V, Shotton D, Ó Tuama É, Senderov V, Georgiev T, Stoev P, Groom Q, Remsen D, Edmunds S. 2017.
 
 + [A Guide to Data Management in Ecology and Evolution](https://www.britishecologicalsociety.org/wp-content/uploads/2017/06/BES-Data-Guide-2017_web.pdf) British Ecological Society. 2014. 
 
