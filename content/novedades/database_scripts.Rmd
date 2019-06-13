@@ -3,7 +3,9 @@ title: "Scripts for the Data Paper"
 author: "Florencia Grattarola"
 date: "12 June 2019"
 draft: false
-output: github_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
