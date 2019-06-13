@@ -6,6 +6,7 @@ draft: false
 output:
   github_document:
     html_preview: false
+    options(blogdown.draft.output = TRUE)
 ---
 
 ```{r setup, include=FALSE}
