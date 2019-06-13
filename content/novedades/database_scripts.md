@@ -24,11 +24,11 @@ Enough talking! Let's explore the data!
 
 To run this code you will need the following R packages:
 
-```r 
-library(tidyverse)
-library(extrafont)
-library(dismo)
-```  
+
+    library(tidyverse)
+    library(extrafont)
+    library(dismo)
+
   
 
 We will see the data's:  
