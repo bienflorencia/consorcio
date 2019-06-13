@@ -4,6 +4,13 @@ draft = false
 title: "Scripts for the Data Paper"
 +++
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(lubridate)
+library(extrafont)
+library(raster)
+```
 
 This post has all the scripts used to generate the figures of the Data
 Paper **“Biodiversidata: An Open-Access Biodiversity Database for
@@ -25,9 +32,12 @@ Enough talking! Let's explore the data!
 
 To run this code you will need the following R packages:
 
-    library(tidyverse)
-    library(extrafont)
-    library(dismo)
+```r 
+library(tidyverse)
+library(extrafont)
+library(dismo)
+```  
+  
 
 We will see the data's:  
 1. [Taxonomic coverage](#taxonomic-coverage)  
@@ -36,11 +46,15 @@ We will see the data's:
 
 Let's start by getting the database. We could read the file like this:
 
-    Biodiversidata <- read_delim('Biodiversidata_1.0.0.tsv', delim = '\t')
+```r 
+Biodiversidata <- read_delim('Biodiversidata_1.0.0.tsv', delim = '\t')
+```  
+
 
 But we are going to include all the column names and types to avoid
 having any reading errors on our file.
 
+```r 
     Biodiversidata <- read_delim('../../data/Biodiversidata_1.0.0.tsv',
                                  col_types = cols(occurrenceID = col_character(),
                                                   scientificName = col_character(),
@@ -74,8 +88,9 @@ having any reading errors on our file.
                                                   identifiedBy = col_character(),
                                                   dynamicProperties = col_character(),
                                                   associatedReferences  = col_character()), delim = '\t')
+```
 
-------------------------------------------------------------------------
+---
 
 Now that we are ready! Let's explore the data.
 
@@ -194,6 +209,7 @@ country code 'UY' and the level 1 for administrative boundaries.
 
 Now we map the occurrence records separated by class.
 
+```r
     ggplot() + 
       geom_polygon(data=Uruguay, aes(long,lat,group=group), fill="white") +
       geom_path(data=Uruguay, aes(long,lat, group=group), color="grey", size=0.1) +
@@ -203,6 +219,7 @@ Now we map the occurrence records separated by class.
       theme_bw() +
       theme(text=element_text(family='Calibri', size = 12))
 
+```
 ![](/img/unnamed-chunk-10-1.png)
 
 And that's all !
