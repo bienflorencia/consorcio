@@ -1,7 +1,7 @@
 +++
 date = "2019-04-12T18:14:07Z"
 draft = false
-title: "Scripts for the Data Paper"
+title = "Scripts for the Data Paper"
 +++
 
 This post has all the scripts used to generate the figures of the Data
