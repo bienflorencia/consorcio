@@ -4,8 +4,8 @@ author: "Florencia Grattarola"
 date: "12 June 2019"
 draft: false
 output:
-  md_document:
-    variant: markdown_github
+  github_document:
+    html_preview: false
 ---
 
 ```{r setup, include=FALSE}
