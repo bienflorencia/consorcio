@@ -1,6 +1,5 @@
 +++
 date = "2019-06-13T14:40:07Z"
-author: "Florencia Grattarola"
 draft = false
 title = "Scripts for the Data Paper"
 
