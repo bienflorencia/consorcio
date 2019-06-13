@@ -1,3 +1,11 @@
+---
+title: "Scripts for the Data Paper"
+author: "Florencia Grattarola"
+date: "12 June 2019"
+draft: false
+---
+
+
 This post has all the scripts used to generate the figures of the Data
 Paper **“Biodiversidata: An Open-Access Biodiversity Database for
 Uruguay”**, published in the Biodiversity Data Journal. The dataset
