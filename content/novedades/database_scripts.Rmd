@@ -2,6 +2,7 @@
 title: "Scripts for the Data Paper"
 author: "Florencia Grattarola"
 date: "12 June 2019"
+draft: false
 output:
   md_document:
     variant: markdown_github
