@@ -133,7 +133,7 @@ The database includes records representing 129 families, 446 genera and
       theme(text=element_text(family='Calibri', size = 12)) +
       theme(axis.title.y = element_text(margin = margin(t = 0, r = 20, b = 0, l = 0)))
 
-![chunk-5-1](img/unnamed-chunk-5-1.png)
+![chunk-5-1](../../static/img/unnamed-chunk-5-1.png)
 
 ### What's the number of species per class?
 
@@ -166,7 +166,7 @@ The database includes records representing 129 families, 446 genera and
       theme(text=element_text(family='Calibri', size = 12)) +
       theme(axis.title.y = element_text(margin = margin(t = 0, r = 20, b = 0, l = 0)))
 
-![chunk-7-1](img/unnamed-chunk-7-1.png)
+![chunk-7-1](../../static/img/unnamed-chunk-7-1.png)
 
 The taxonomic coverage is uneven!
 
@@ -188,7 +188,7 @@ time within the groups?
 
     ## Warning: Removed 5469 rows containing missing values (geom_point).
 
-![chunk-8-1](img/unnamed-chunk-8-1.png)
+![chunk-8-1](../../static/img/unnamed-chunk-8-1.png)
 
 3) Geographic coverage
 ----------------------
@@ -212,7 +212,7 @@ Now we map the occurrence records separated by class.
       theme(text=element_text(family='Calibri', size = 12))
 
 
-![chunk-10-1](img/unnamed-chunk-10-1.png)
+![chunk-10-1](../../static/img/unnamed-chunk-10-1.png)
 
 And that's all !
 ----------------
