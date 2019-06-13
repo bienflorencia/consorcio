@@ -2,11 +2,10 @@
 title: "Scripts for the Data Paper"
 author: "Florencia Grattarola"
 date: "12 June 2019"
+draft: false
 output:
-  md_document: default
   github_document:
-    html_preview: no
-draft: no
+    html_preview: false
 ---
 
 ```{r setup, include=FALSE}
@@ -46,7 +45,7 @@ Biodiversidata <- read_delim('Biodiversidata_1.0.0.tsv', delim = '\t')
 But we are going to include all the column names and types to avoid having any reading errors on our file.
 
 ```{r echo=TRUE}
-Biodiversidata <- read_delim('../../data/Biodiversidata_1.0.0.tsv',
+Biodiversidata <- read_delim('../data/Biodiversidata_1.0.0.tsv',
                              col_types = cols(occurrenceID = col_character(),
                                               scientificName = col_character(),
                                               scientificNameAuthorship = col_character(),
