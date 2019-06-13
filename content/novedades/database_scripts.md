@@ -129,7 +129,7 @@ Biodiversidata %>%
   theme(axis.title.y = element_text(margin = margin(t = 0, r = 20, b = 0, l = 0)))
 ```
 
-![chunk-5-1](img/unnamed-chunk-5-1.png)
+![chunk-5-1](static/img/unnamed-chunk-5-1.png)
 
 
 ### What's the number of species per class?
@@ -167,7 +167,7 @@ Biodiversidata %>%
   theme(axis.title.y = element_text(margin = margin(t = 0, r = 20, b = 0, l = 0)))
 ```
 
-![chunk-7-1](img/unnamed-chunk-7-1.png)
+![chunk-7-1](static/img/unnamed-chunk-7-1.png)
 
 
 The taxonomic coverage is uneven!
@@ -188,7 +188,7 @@ ggplot(Biodiversidata, aes(x=year, y=order, color=class)) +
   labs(x='Year', y='Order', color = '') 
 ```  
 
-![chunk-8-1](img/unnamed-chunk-8-1.png)
+![chunk-8-1](static/img/unnamed-chunk-8-1.png)
 
 3) Geographic coverage
 ----------------------
@@ -212,7 +212,7 @@ ggplot() +
   theme(text=element_text(family='Calibri', size = 12))
 ```
 
-![chunk-10-1](img/unnamed-chunk-10-1.png)
+![chunk-10-1](static/img/unnamed-chunk-10-1.png)
 
 And that's all !
 ----------------
