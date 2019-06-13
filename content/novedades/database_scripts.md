@@ -212,7 +212,7 @@ Now we map the occurrence records separated by class.
       theme(text=element_text(family='Calibri', size = 12))
 
 
-![](static/img/unnamed-chunk-10-1.png)
+![](../../static/img/unnamed-chunk-10-1.png)
 
 And that's all !
 ----------------
