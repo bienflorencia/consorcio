@@ -1,10 +1,10 @@
----
-title: "Scripts for the Data Paper"
++++
+date = "2019-06-13T14:40:07Z"
 author: "Florencia Grattarola"
-date: "12 June 2019"
-draft: false
----
+draft = false
+title = "Scripts for the Data Paper"
 
++++
 
 This post has all the scripts used to generate the figures of the Data
 Paper **“Biodiversidata: An Open-Access Biodiversity Database for
